@@ -1,0 +1,25 @@
+Changelog HorizonDroid ENDFIELD x1.0
+- November Security Patch 
+- Fixes play device integrity after the recent server-side update
+- Fix Loockscreen Force Close
+- Fix SystemUI Crash
+- Fix battery led not turning off when unplugged at 100%
+- Fix keyguard slice view layout
+- Always disable rotation on lockscreen
+- Add auto brightness button to QS brightness slider
+- Add Animate auto brightness toggle
+- Update husky fingerprint for November 2023
+- Apply monet to fingerprint authentication ripple animation 
+- Speed up the style pruning
+- Use user fonts for Material UI themes
+- Add Sync tile
+- Show bluetooth battery level
+- Update Bluetooth battery level assets.
+- enable LTE+ icon by default
+- Enable smart battery for everyone
+- Update crowdin 
+- Enable auto brightness by default
+- Allow lower temperatures
+- Enable burn-in protection by default
+- Silence OpenGL swap behavior failures
+- Bring in missing lottie animation
